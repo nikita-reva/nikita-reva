@@ -8,7 +8,7 @@ I use my GitHub account to track my progression and to share what I'm working on
 
 ***
 
-These are the techonolgies I am already familiar with:  
+These are technologies I can confidently work with:
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
