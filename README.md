@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub!
 
-![Nikita Reva](images/nikita-reva.png =1000x)
+![Nikita Reva](images/nikita-reva.png)
 
 Being handsome is not enough to be be a successful member of our society these days. Therefore I decided that it is time to learn some useful skills. For quite some time now I have been learning the myterious arts of web design and development. I'm starting to feel that I'm getting pretty good at it. Even though I haven't realized any big projects yet, I trust myself with more and more difficult tasks.
 
