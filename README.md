@@ -2,7 +2,7 @@
 
 ![Nikita Reva](images/nikita-reva.png)
 
-Being incredibly handsome is not enough to be be a successful member of our society these days. Therefore I decided that it is time to learn some useful skills. For quite some time now I have been learning the myterious arts of web design and development. I'm starting to feel that I'm getting pretty good at it. Even though I haven't realized any big projects yet, I trust myself with more and more difficult tasks.
+Being incredibly handsome is not enough to be be a successful member of our society these days. Therefore I decided that it is time to learn some useful skills to make a positive contribution to society. For quite some time now I have been learning the myterious arts of web design and development. I'm starting to feel that I'm getting pretty good at it. Even though I haven't realized any big projects yet, I trust myself with more and more difficult tasks.
 
 I use my GitHub account to track my progression and to share what I'm working on with others ... for now. In the future I want to shine with my own fantastic creations and develop software of great value. Until I am ready, I will learn from others and refine my skills repertoire.
 
@@ -44,7 +44,7 @@ I use my GitHub account to track my progression and to share what I'm working on
 ***
 
 
-### These are the technologies I still want to learn or deepen:  
+### These are the technologies I still want to explore:  
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -58,5 +58,7 @@ I use my GitHub account to track my progression and to share what I'm working on
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 
 ... and more.
