@@ -8,7 +8,7 @@
 -  [Video Chat App](https://aniketos-video-chat-app.herokuapp.com/)
 -  [Event Social Network](https://aniketos-revents-firestore.firebaseapp.com/)
 
-### npm package: Web-based code documentation tool  
-`npx aniketos-jsnote serve`  
+### npm package: web-based code documentation tool  
+###`npx aniketos-jsnote serve`  
 ***
 <div style="width: 100%; display: flex; justify-content: center;"><img src="./images/niko_reva_cv.png" alt="cv" /></div>
