@@ -1,3 +1,3 @@
 # Hi there! Welcome to my GitHub!
 
-<div><img src="./images/niko_reva_cv.png" alt="cv" /></div>.
+<div style="width: 100%; display: flex; justify-content: center;"><img src="./images/niko_reva_cv.png" alt="cv" /></div>.
