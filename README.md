@@ -2,4 +2,4 @@
 
 ![cv](./images/niko_reva_cv.png)
 
-<div style="display: flex; justify-content: center; widht:100%"><img src="./images/niko_reva_cv.png" alt="cv" /></div>.
+<div style="width: 100%; display: flex; justify-content: center;"><img src="./images/niko_reva_cv.png" alt="cv" /></div>.
