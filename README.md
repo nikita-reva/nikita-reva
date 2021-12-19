@@ -12,4 +12,3 @@
 ### npm package: web-based code documentation tool  
 `npx aniketos-jsnote serve`  
 ***
-<div style="width: 100%; display: flex; justify-content: center;"><img src="./images/niko_reva_cv.png" alt="cv" /></div>
